@@ -4,7 +4,31 @@ Personal configuration files for my development environment.
 
 ## 📸 Screenshots
 
-![Neovim Dashboard](assets/dashboard.png)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/Screenie1.png" alt="Neovim Setup - Dashboard View" width="100%" />
+        <br />
+        <em>Custom Dashboard with Personalized Branding</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/Screenie2.png" alt="Neovim Setup - Code Editing" width="100%" />
+        <br />
+        <em>Modern Editing Experience with Syntax Highlighting</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/Screenie3.png" alt="Neovim Setup - Plugin Manager" width="100%" />
+        <br />
+        <em>Lazy.nvim Plugin Manager Interface</em>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 📦 What's Inside
 
