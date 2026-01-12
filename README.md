@@ -4,7 +4,17 @@ Personal configuration files for my development environment.
 
 ## 📸 Screenshots
 
-![Neovim Dashboard](assets/dashboard.png)
+<div align="center">
+  <table>
+    <tr>
+      <td><img src="assets/Screenie1.png" alt="Screenshot 1" width="400"/></td>
+      <td><img src="assets/Screenie2.png" alt="Screenshot 2" width="400"/></td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center"><img src="assets/Screenie3.png" alt="Screenshot 3" width="400"/></td>
+    </tr>
+  </table>
+</div>
 
 ## 📦 What's Inside
 
