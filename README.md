@@ -17,7 +17,7 @@ Personal configuration files for my development environment.
       <td align="center">
         <img src="assets/Screenie2.png" alt="Screenshot 2" width="100%"/>
         <br/>
-        <em>Coding Environment</em>
+        <em>Config Files</em>
       </td>
     </tr>
     <tr>
