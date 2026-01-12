@@ -10,7 +10,7 @@ Personal configuration files for my development environment.
       <td align="center">
         <img src="assets/Screenie1.png" alt="Screenshot 1" width="100%"/>
         <br/>
-        <em>Neovim Dashboard</em>
+        <em>Plugin Manager</em>
       </td>
     </tr>
     <tr>
@@ -24,7 +24,7 @@ Personal configuration files for my development environment.
       <td align="center">
         <img src="assets/Screenie3.png" alt="Screenshot 3" width="100%"/>
         <br/>
-        <em>Plugin Manager</em>
+        <em>Neovim Dashboard</em>
       </td>
     </tr>
   </table>
